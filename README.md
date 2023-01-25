@@ -2,14 +2,12 @@
 	<img src="https://capsule-render.vercel.app/api?type=egg&color=FDFD96&height=300&section=header&text=Cho's+Github&fontSize=90" />
 </div>
 <br>
-<br>
 <div align="center">
 	<h2><strong>🖐 Introduction 🖐</strong></h2>
-	<p>Welcome My Github! I'm Cho and I majored in Computer Science and Engineering.</p>
+	<p>I majored in Computer Science and Engineering.</p>
 	<p>My main interests are communication networks, artificial intelligence(AI), and data modeling.</p>
 	<p>Currently, I am working on communication control research and studying related technology stacks.</p>
 </div>
-<br>
 <br>
 <div align="center">
 	<p><strong>💎 Flatforms & Languages 💎</strong></p>
