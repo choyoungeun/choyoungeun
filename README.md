@@ -5,7 +5,7 @@
 <br>
 <div align="center">
 	<h2><strong>🖐 Introduction 🖐</strong></h2>
-	<p>Welcome My Github! I'm Cho and I majored in computer science and Engineering.</p>
+	<p>Welcome My Github! I'm Cho and I majored in Computer Science and Engineering.</p>
 	<p>My main interests are communication networks, artificial intelligence(AI), and data modeling.</p>
 	<p>Currently, I am working on communication control research and studying related technology stacks.</p>
 </div>
