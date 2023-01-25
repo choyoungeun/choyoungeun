@@ -3,7 +3,6 @@
 	<img src="https://capsule-render.vercel.app/api?type=egg&color=FDFD96&height=300&section=header&text=Cho's+Github&fontSize=90" />
 </div>
 !-->
-<br>
 <div align="center">
 	<h2><strong>🖐 Introduction 🖐</strong></h2>
 	<p>I majored in Computer Science and Engineering.</p>
@@ -51,13 +50,11 @@
 	<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
 	<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=VirtualBox&logoColor=white"/>
 </div>
-
-<br>
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choyoungeun&layout=compact&theme=dark">
 </div>
-<br><br>
+
 <!--
 <div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=FDFD96&height=200&section=footer" />
